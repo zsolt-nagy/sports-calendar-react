@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sports-calendar-react/static/css/main.a36df31b.css",
-    "main.js": "/sports-calendar-react/static/js/main.b3aeaf01.js",
+    "main.css": "/sports-calendar-react/static/css/main.54632f8d.css",
+    "main.js": "/sports-calendar-react/static/js/main.b01baffb.js",
     "static/js/787.0b126ad8.chunk.js": "/sports-calendar-react/static/js/787.0b126ad8.chunk.js",
     "index.html": "/sports-calendar-react/index.html",
-    "main.a36df31b.css.map": "/sports-calendar-react/static/css/main.a36df31b.css.map",
-    "main.b3aeaf01.js.map": "/sports-calendar-react/static/js/main.b3aeaf01.js.map",
+    "main.54632f8d.css.map": "/sports-calendar-react/static/css/main.54632f8d.css.map",
+    "main.b01baffb.js.map": "/sports-calendar-react/static/js/main.b01baffb.js.map",
     "787.0b126ad8.chunk.js.map": "/sports-calendar-react/static/js/787.0b126ad8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a36df31b.css",
-    "static/js/main.b3aeaf01.js"
+    "static/css/main.54632f8d.css",
+    "static/js/main.b01baffb.js"
   ]
 }
