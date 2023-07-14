@@ -2,16 +2,19 @@ import React from 'react';
 import BasketballCalendarItem from './BasketballCalendarItem';
 import './BasketballCalendarList.css';
 
-export default function BasketballCalendarList({ items }) {
+export default function BasketballCalendarList({ items, updateWinner, deleteItem }) {
 
     let ItemListJsx = items.map( item => 
         <BasketballCalendarItem 
-            key={item.createdAt}
+            key={item.id}
+            id={item.id}
             location={item.location}
             team1={item.team1}
             team2={item.team2}
             date={item.date}
-            winner={item.winner} />
+            winner={item.winner}
+            updateWinner={updateWinner}
+            deleteItem={deleteItem} />
     );
 
     return (
