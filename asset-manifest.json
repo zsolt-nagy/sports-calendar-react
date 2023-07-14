@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sports-calendar-react/static/css/main.a36df31b.css",
+    "main.js": "/sports-calendar-react/static/js/main.334c4b37.js",
+    "static/js/787.0b126ad8.chunk.js": "/sports-calendar-react/static/js/787.0b126ad8.chunk.js",
+    "index.html": "/sports-calendar-react/index.html",
+    "main.a36df31b.css.map": "/sports-calendar-react/static/css/main.a36df31b.css.map",
+    "main.334c4b37.js.map": "/sports-calendar-react/static/js/main.334c4b37.js.map",
+    "787.0b126ad8.chunk.js.map": "/sports-calendar-react/static/js/787.0b126ad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36df31b.css",
+    "static/js/main.334c4b37.js"
+  ]
+}
